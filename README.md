@@ -1,4 +1,3 @@
-# Memory-Card-Flip-Game
 # 🧠 Memory Card Flip Game
 
 A simple and interactive browser-based memory matching game built using **HTML**, **CSS**, and **JavaScript**.
